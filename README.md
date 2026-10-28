@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Subh! 👋
 
-<!--
-**Subh5999/Subh5999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Exploring Computer Science, Programming & Data Analytics at IIT Patna.
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming, and problem-solving. Currently, I'm strengthening my programming fundamentals and exploring how data can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Python Programming
+- NumPy
+- Data Analytics
+- Problem Solving
+
+## 🛠️ Skills & Tools
+- **Programming Language:** Python
+- **Libraries:** NumPy (Beginner)
+- **Tools:** Git, GitHub, GitHub Codespaces
+
+## 📂 My Learning & Projects
+
+- [Python Learning Journey](https://github.com/Subh5999/python-learning-journey) – Python practice programs, concepts, and learning progress.
+
+## 🎯 Goals
+- Strengthen programming fundamentals
+- Learn Pandas and Matplotlib
+- Build real-world data analytics projects
+- Improve problem-solving skills
+- Explore Machine Learning
+
+## 📫 Connect With Me
+- GitHub: [@Subh5999](https://github.com/Subh5999)
+
+---
+
+*Learning consistently, building projects, and growing every day.*
